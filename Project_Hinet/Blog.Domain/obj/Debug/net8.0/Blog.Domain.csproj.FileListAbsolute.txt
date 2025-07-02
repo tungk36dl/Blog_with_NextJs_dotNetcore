@@ -1,0 +1,14 @@
+D:\Thuc_tap_Hinet\Project_Hinet\Blog.Domain\bin\Debug\net8.0\Blog.Domain.deps.json
+D:\Thuc_tap_Hinet\Project_Hinet\Blog.Domain\bin\Debug\net8.0\Blog.Domain.dll
+D:\Thuc_tap_Hinet\Project_Hinet\Blog.Domain\bin\Debug\net8.0\Blog.Domain.pdb
+D:\Thuc_tap_Hinet\Project_Hinet\Blog.Domain\obj\Debug\net8.0\Blog.Domain.csproj.AssemblyReference.cache
+D:\Thuc_tap_Hinet\Project_Hinet\Blog.Domain\obj\Debug\net8.0\Blog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thuc_tap_Hinet\Project_Hinet\Blog.Domain\obj\Debug\net8.0\Blog.Domain.AssemblyInfoInputs.cache
+D:\Thuc_tap_Hinet\Project_Hinet\Blog.Domain\obj\Debug\net8.0\Blog.Domain.AssemblyInfo.cs
+D:\Thuc_tap_Hinet\Project_Hinet\Blog.Domain\obj\Debug\net8.0\Blog.Domain.csproj.CoreCompileInputs.cache
+D:\Thuc_tap_Hinet\Project_Hinet\Blog.Domain\obj\Debug\net8.0\Blog.Domain.dll
+D:\Thuc_tap_Hinet\Project_Hinet\Blog.Domain\obj\Debug\net8.0\refint\Blog.Domain.dll
+D:\Thuc_tap_Hinet\Project_Hinet\Blog.Domain\obj\Debug\net8.0\Blog.Domain.pdb
+D:\Thuc_tap_Hinet\Project_Hinet\Blog.Domain\obj\Debug\net8.0\ref\Blog.Domain.dll
+D:\Thuc_tap_Hinet\Project_Hinet\Blog.Domain\bin\Debug\net8.0\Blog.Domain.runtimeconfig.json
+D:\Thuc_tap_Hinet\Project_Hinet\Blog.Domain\obj\Debug\net8.0\Blog.Domain.genruntimeconfig.cache

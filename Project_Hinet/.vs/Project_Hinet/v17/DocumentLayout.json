@@ -1,0 +1,775 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Thuc_tap_Hinet\\Project_Hinet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|solutionrelative:blog.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.api\\controllers\\base\\authorizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|solutionrelative:blog.api\\controllers\\base\\authorizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.api\\controllers\\base\\noauthorizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|solutionrelative:blog.api\\controllers\\base\\noauthorizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|solutionrelative:blog.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|solutionrelative:blog.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C418B7-C9DA-47F2-9916-07E8BF65A55B}|Blog.Infrastructure\\Blog.Infrastructure.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.infrastructure\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C418B7-C9DA-47F2-9916-07E8BF65A55B}|Blog.Infrastructure\\Blog.Infrastructure.csproj|solutionrelative:blog.infrastructure\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\interface\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\interface\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\viewmodel\\post\\filterpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\viewmodel\\post\\filterpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\viewmodel\\post\\createpostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\viewmodel\\post\\createpostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C418B7-C9DA-47F2-9916-07E8BF65A55B}|Blog.Infrastructure\\Blog.Infrastructure.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C418B7-C9DA-47F2-9916-07E8BF65A55B}|Blog.Infrastructure\\Blog.Infrastructure.csproj|solutionrelative:blog.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|solutionrelative:blog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C418B7-C9DA-47F2-9916-07E8BF65A55B}|Blog.Infrastructure\\Blog.Infrastructure.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C418B7-C9DA-47F2-9916-07E8BF65A55B}|Blog.Infrastructure\\Blog.Infrastructure.csproj|solutionrelative:blog.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\enums\\poststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\enums\\poststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C418B7-C9DA-47F2-9916-07E8BF65A55B}|Blog.Infrastructure\\Blog.Infrastructure.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.infrastructure\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C418B7-C9DA-47F2-9916-07E8BF65A55B}|Blog.Infrastructure\\Blog.Infrastructure.csproj|solutionrelative:blog.infrastructure\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\Migrations\\20250701080648_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Blog.Infrastructure\\Migrations\\20250701080648_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\Migrations\\20250701080509_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Blog.Infrastructure\\Migrations\\20250701080509_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\viewmodel\\post\\updatepostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\viewmodel\\post\\updatepostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\viewmodel\\category\\updatecategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\viewmodel\\category\\updatecategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\viewmodel\\post\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\viewmodel\\post\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\viewmodel\\category\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\viewmodel\\category\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|solutionrelative:blog.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|solutionrelative:blog.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.api\\filters\\validateuserfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|solutionrelative:blog.api\\filters\\validateuserfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|solutionrelative:blog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.api\\blog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{90065683-B48A-4A79-A647-7B0A68C9E896}|Blog.API\\Blog.API.csproj|solutionrelative:blog.api\\blog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C418B7-C9DA-47F2-9916-07E8BF65A55B}|Blog.Infrastructure\\Blog.Infrastructure.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.infrastructure\\services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C418B7-C9DA-47F2-9916-07E8BF65A55B}|Blog.Infrastructure\\Blog.Infrastructure.csproj|solutionrelative:blog.infrastructure\\services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C418B7-C9DA-47F2-9916-07E8BF65A55B}|Blog.Infrastructure\\Blog.Infrastructure.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.infrastructure\\services\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C418B7-C9DA-47F2-9916-07E8BF65A55B}|Blog.Infrastructure\\Blog.Infrastructure.csproj|solutionrelative:blog.infrastructure\\services\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\viewmodel\\auth\\loginresultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\viewmodel\\auth\\loginresultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\viewmodel\\auth\\loginuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\viewmodel\\auth\\loginuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\viewmodel\\user\\updateuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\viewmodel\\user\\updateuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\viewmodel\\user\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\viewmodel\\user\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C418B7-C9DA-47F2-9916-07E8BF65A55B}|Blog.Infrastructure\\Blog.Infrastructure.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.infrastructure\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C418B7-C9DA-47F2-9916-07E8BF65A55B}|Blog.Infrastructure\\Blog.Infrastructure.csproj|solutionrelative:blog.infrastructure\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\viewmodel\\user\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\viewmodel\\user\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\viewmodel\\category\\createcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\viewmodel\\category\\createcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\entities\\domainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\entities\\domainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.domain\\blog.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A7859685-8A9B-4139-BA94-2802C62AC974}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\blog.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C418B7-C9DA-47F2-9916-07E8BF65A55B}|Blog.Infrastructure\\Blog.Infrastructure.csproj|d:\\thuc_tap_hinet\\project_hinet\\blog.infrastructure\\migrations\\20250701080909_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C418B7-C9DA-47F2-9916-07E8BF65A55B}|Blog.Infrastructure\\Blog.Infrastructure.csproj|solutionrelative:blog.infrastructure\\migrations\\20250701080909_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 147,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Blog.API\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Blog.API\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:16:02.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "Blog.API\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\Controllers\\PostController.cs",
+              "RelativeToolTip": "Blog.API\\Controllers\\PostController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:02:09.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorizeController.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\Controllers\\Base\\AuthorizeController.cs",
+              "RelativeDocumentMoniker": "Blog.API\\Controllers\\Base\\AuthorizeController.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\Controllers\\Base\\AuthorizeController.cs",
+              "RelativeToolTip": "Blog.API\\Controllers\\Base\\AuthorizeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:38:20.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoAuthorizeController.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\Controllers\\Base\\NoAuthorizeController.cs",
+              "RelativeDocumentMoniker": "Blog.API\\Controllers\\Base\\NoAuthorizeController.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\Controllers\\Base\\NoAuthorizeController.cs",
+              "RelativeToolTip": "Blog.API\\Controllers\\Base\\NoAuthorizeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:39:11.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Blog.API\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Blog.API\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:19:16.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "Blog.Infrastructure\\Services\\PostService.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\Services\\PostService.cs",
+              "RelativeToolTip": "Blog.Infrastructure\\Services\\PostService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwKIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:37:26.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreatePostViewModel.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\Post\\CreatePostViewModel.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\ViewModel\\Post\\CreatePostViewModel.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\Post\\CreatePostViewModel.cs",
+              "RelativeToolTip": "Blog.Domain\\ViewModel\\Post\\CreatePostViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T02:30:56.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilterPostModel.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\Post\\FilterPostModel.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\ViewModel\\Post\\FilterPostModel.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\Post\\FilterPostModel.cs",
+              "RelativeToolTip": "Blog.Domain\\ViewModel\\Post\\FilterPostModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:00:56.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Interface\\IPostService.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\Interface\\IPostService.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Interface\\IPostService.cs",
+              "RelativeToolTip": "Blog.Domain\\Interface\\IPostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:33:08.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Interface\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\Interface\\IGenericRepository.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Interface\\IGenericRepository.cs",
+              "RelativeToolTip": "Blog.Domain\\Interface\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:00:18.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Blog.API\\appsettings.json",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\appsettings.json",
+              "RelativeToolTip": "Blog.API\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T07:59:44.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\Interface\\IUserService.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Blog.Domain\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:55:30.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Blog.Infrastructure\\Services\\UserService.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\Services\\UserService.cs",
+              "RelativeToolTip": "Blog.Infrastructure\\Services\\UserService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:43:40.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PostStatus.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Enums\\PostStatus.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\Enums\\PostStatus.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Enums\\PostStatus.cs",
+              "RelativeToolTip": "Blog.Domain\\Enums\\PostStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:00:09.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Blog.Infrastructure\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Blog.Infrastructure\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:59:21.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\Entities\\Post.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Entities\\Post.cs",
+              "RelativeToolTip": "Blog.Domain\\Entities\\Post.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:59:22.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Blog.Infrastructure\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Blog.Infrastructure\\Services\\CategoryService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:29:24.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250701080509_init.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\Migrations\\20250701080509_init.cs",
+              "RelativeDocumentMoniker": "Blog.Infrastructure\\Migrations\\20250701080509_init.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\Migrations\\20250701080509_init.cs",
+              "RelativeToolTip": "Blog.Infrastructure\\Migrations\\20250701080509_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T08:05:09.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250701080909_init.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\Migrations\\20250701080909_init.cs",
+              "RelativeDocumentMoniker": "Blog.Infrastructure\\Migrations\\20250701080909_init.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\Migrations\\20250701080909_init.cs",
+              "RelativeToolTip": "Blog.Infrastructure\\Migrations\\20250701080909_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T08:09:09.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250701080648_init.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\Migrations\\20250701080648_init.cs",
+              "RelativeDocumentMoniker": "Blog.Infrastructure\\Migrations\\20250701080648_init.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\Migrations\\20250701080648_init.cs",
+              "RelativeToolTip": "Blog.Infrastructure\\Migrations\\20250701080648_init.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T08:06:49.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateCategoryViewModel.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\Category\\UpdateCategoryViewModel.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\ViewModel\\Category\\UpdateCategoryViewModel.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\Category\\UpdateCategoryViewModel.cs",
+              "RelativeToolTip": "Blog.Domain\\ViewModel\\Category\\UpdateCategoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:49:23.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdatePostViewModel.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\Post\\UpdatePostViewModel.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\ViewModel\\Post\\UpdatePostViewModel.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\Post\\UpdatePostViewModel.cs",
+              "RelativeToolTip": "Blog.Domain\\ViewModel\\Post\\UpdatePostViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T02:32:55.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryViewModel.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\Category\\CategoryViewModel.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\ViewModel\\Category\\CategoryViewModel.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\Category\\CategoryViewModel.cs",
+              "RelativeToolTip": "Blog.Domain\\ViewModel\\Category\\CategoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:47:23.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Blog.API\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Blog.API\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:35:25.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PostViewModel.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\Post\\PostViewModel.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\ViewModel\\Post\\PostViewModel.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\Post\\PostViewModel.cs",
+              "RelativeToolTip": "Blog.Domain\\ViewModel\\Post\\PostViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:15:26.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Interface\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\Interface\\ICategoryService.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Interface\\ICategoryService.cs",
+              "RelativeToolTip": "Blog.Domain\\Interface\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:28:16.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ResponseResult.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ResponseResult.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\ResponseResult.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ResponseResult.cs",
+              "RelativeToolTip": "Blog.Domain\\ResponseResult.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAtwEoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:41:42.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Blog.API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Blog.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T02:28:49.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\Program.cs",
+              "RelativeDocumentMoniker": "Blog.API\\Program.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\Program.cs",
+              "RelativeToolTip": "Blog.API\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T02:48:27.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ValidateUserFilter.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\Filters\\ValidateUserFilter.cs",
+              "RelativeDocumentMoniker": "Blog.API\\Filters\\ValidateUserFilter.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\Filters\\ValidateUserFilter.cs",
+              "RelativeToolTip": "Blog.API\\Filters\\ValidateUserFilter.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAtwCMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:11:13.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Blog.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:59:22.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\Services\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Blog.Infrastructure\\Services\\UnitOfWork.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\Services\\UnitOfWork.cs",
+              "RelativeToolTip": "Blog.Infrastructure\\Services\\UnitOfWork.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:54:15.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Blog.API.csproj",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\Blog.API.csproj",
+              "RelativeDocumentMoniker": "Blog.API\\Blog.API.csproj",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.API\\Blog.API.csproj",
+              "RelativeToolTip": "Blog.API\\Blog.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T07:33:29.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\Services\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Blog.Infrastructure\\Services\\GenericRepository.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\Services\\GenericRepository.cs",
+              "RelativeToolTip": "Blog.Infrastructure\\Services\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:59:21.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginResultViewModel.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\Auth\\LoginResultViewModel.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\ViewModel\\Auth\\LoginResultViewModel.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\Auth\\LoginResultViewModel.cs",
+              "RelativeToolTip": "Blog.Domain\\ViewModel\\Auth\\LoginResultViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:44:13.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginUserViewModel.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\Auth\\LoginUserViewModel.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\ViewModel\\Auth\\LoginUserViewModel.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\Auth\\LoginUserViewModel.cs",
+              "RelativeToolTip": "Blog.Domain\\ViewModel\\Auth\\LoginUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:43:36.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpdateUserViewModel.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\User\\UpdateUserViewModel.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\ViewModel\\User\\UpdateUserViewModel.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\User\\UpdateUserViewModel.cs",
+              "RelativeToolTip": "Blog.Domain\\ViewModel\\User\\UpdateUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:13:40.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\ServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Blog.Domain\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:55:55.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\User\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\ViewModel\\User\\LoginViewModel.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\User\\LoginViewModel.cs",
+              "RelativeToolTip": "Blog.Domain\\ViewModel\\User\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:56:00.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Blog.Infrastructure\\ServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Infrastructure\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Blog.Infrastructure\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:23:16.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\Entities\\Category.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Blog.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBQwBgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:59:21.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateUserViewModel.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\User\\CreateUserViewModel.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\ViewModel\\User\\CreateUserViewModel.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\User\\CreateUserViewModel.cs",
+              "RelativeToolTip": "Blog.Domain\\ViewModel\\User\\CreateUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:10:56.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CreateCategoryViewModel.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\Category\\CreateCategoryViewModel.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\ViewModel\\Category\\CreateCategoryViewModel.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\ViewModel\\Category\\CreateCategoryViewModel.cs",
+              "RelativeToolTip": "Blog.Domain\\ViewModel\\Category\\CreateCategoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:50:43.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Interface\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\Interface\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Interface\\IUnitOfWork.cs",
+              "RelativeToolTip": "Blog.Domain\\Interface\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vxAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:45:52.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DomainEntity.cs",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Entities\\DomainEntity.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\Entities\\DomainEntity.cs",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Entities\\DomainEntity.cs",
+              "RelativeToolTip": "Blog.Domain\\Entities\\DomainEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:59:20.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Blog.Domain.csproj",
+              "DocumentMoniker": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Blog.Domain.csproj",
+              "RelativeDocumentMoniker": "Blog.Domain\\Blog.Domain.csproj",
+              "ToolTip": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Blog.Domain.csproj",
+              "RelativeToolTip": "Blog.Domain\\Blog.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-26T06:59:19.035Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 40,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

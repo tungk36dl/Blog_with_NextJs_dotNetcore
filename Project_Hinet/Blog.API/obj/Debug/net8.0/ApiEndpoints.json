@@ -386,6 +386,70 @@
     ]
   },
   {
+    "ContainingType": "Blog.API.Controllers.UploadFileController",
+    "Method": "DeleteFile",
+    "RelativePath": "api/UploadFile/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "path",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Blog.API.Controllers.UploadFileController",
+    "Method": "DownloadFile",
+    "RelativePath": "api/UploadFile/download",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "path",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Blog.API.Controllers.UploadFileController",
+    "Method": "UploadFile",
+    "RelativePath": "api/UploadFile/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Blog.API.Controllers.UploadFileController",
+    "Method": "ViewFile",
+    "RelativePath": "api/UploadFile/view",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "path",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Blog.API.Controllers.UserController",
     "Method": "CreateUser",
     "RelativePath": "api/user/create",

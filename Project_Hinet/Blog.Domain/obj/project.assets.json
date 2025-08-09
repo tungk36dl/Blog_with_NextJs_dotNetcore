@@ -5556,11 +5556,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Blog.Domain.csproj",
+      "projectUniqueName": "D:\\Thuc_tap_Hinet\\GitHub_Blog_Hinet\\Project_Hinet\\Blog.Domain\\Blog.Domain.csproj",
       "projectName": "Blog.Domain",
-      "projectPath": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\Blog.Domain.csproj",
+      "projectPath": "D:\\Thuc_tap_Hinet\\GitHub_Blog_Hinet\\Project_Hinet\\Blog.Domain\\Blog.Domain.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Thuc_tap_Hinet\\Project_Hinet\\Blog.Domain\\obj\\",
+      "outputPath": "D:\\Thuc_tap_Hinet\\GitHub_Blog_Hinet\\Project_Hinet\\Blog.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

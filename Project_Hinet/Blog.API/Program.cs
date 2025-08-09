@@ -28,6 +28,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
         };
     });
 
+
 // 3️⃣ Đăng ký AUTHORIZATION (policy, role … nếu cần)
 builder.Services.AddAuthorization();
 
@@ -77,6 +78,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+app.UseStaticFiles(); // Cho phép truy cập file tĩnh trong wwwroot
 
 app.UseCors("AllowAllOrigins");          // (1)  CORS
 
